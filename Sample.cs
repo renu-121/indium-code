@@ -21,6 +21,10 @@ namespace Practise
         {
             return a * b; 
         }
+        public int Div(int a, int b)
+        {
+            return a / b; 
+        }
 
 
         static void Main(string[] args)
